@@ -1,0 +1,13 @@
+WAP in python to create following csv file &
+store atleast five customer details.
+
+	Customers	
+		-customerid
+		-first_name
+		-last_name
+		-gender
+		-amount
+
+	1) Display customers whose gender is male
+	2) Display customer whose gender is female and amount is > 50000
+	3) Display customer details with full name
