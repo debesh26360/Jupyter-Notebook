@@ -1,0 +1,24 @@
+create a csv file and store five student details:
+
+	students
+		-studentid		
+		-first_name
+		-last_name
+		-subject1
+		-subject2
+		-subject3
+
+	
+	1) Create new column "full_name"
+	2) Create new column "total marks"
+	3) Create new column "Percentage"	
+	4) Create new column "pass/fail"   (if per>=35 then pass else fail)
+	5) Create new column "Grade"
+
+
+	per>=75  -> Grade A
+	per>=65  -> Grade B
+	per>=55  -> Grade C
+	per>=45  -> Grade D
+	per>=35  -> Grade E
+	per< 35  -> Grade F

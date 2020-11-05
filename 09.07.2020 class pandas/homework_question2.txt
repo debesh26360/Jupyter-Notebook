@@ -1,0 +1,17 @@
+WAP in python to create csv file.
+
+	customers
+		customerid
+		customername
+		gender
+		amount
+
+
+	1) Display cutomer pie chart gender wise using amount column.
+
+
+10000
+
+
+5 female - 7000
+5 male   - 3000
